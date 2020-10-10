@@ -1,6 +1,6 @@
 {
   "name": "chessboardjsx-custom",
-  "version": "3.1.14",
+  "version": "3.1.15",
   "description": "Chessboard.jsx is a chessboard for React. Inspired by chessboard.js",
   "main": "dist/chessboard.min.js",
   "types": "chessboard.d.ts",
